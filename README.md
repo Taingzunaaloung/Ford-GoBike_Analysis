@@ -26,7 +26,6 @@ Python programming language was used, employing several tools and libraries for 
 * **Haversine** - For calculating the distance between 2 coordinates
 
 # Results
-### Univariate Analysis
 
 ## *General Insight into Dataset*
 * *Total Number of Trips* - **519700**
@@ -51,7 +50,7 @@ Bike users are categorized into 2 groups, ***customers*** who were responsible f
 
 It was determined that the company offered 2 payment methods, either through the ***App wallet*** or by ***Credit card***. The Choice of payment mathod was found to be almost even between the 2 payment methods
 
-### Revenue Analysis
+## Revenue Analysis
 Pegging the cost of bike usage at **$0.35** per minute, the revenue per trip was calculated by multiplying the usage duration by 0.35. The following insights were drawn from the revenue analysis
 * *Total Revenue* = **$2,241,193.76**
 * *Minimum Trip Revenue* = **$0.00**
@@ -69,3 +68,11 @@ To identify ***why*** trips with same start and end stations had a ***revenue bo
 
 *This insight can be useful in improving revenue for the company by encouraging users to return bikes to their start stations by rewarding users who do through discount or cashback programs*
 
+## Stations Analysis
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/3809c76a-de48-41b7-a22e-8027621704e2)
+
+The top 20 start and end stations, by the number of trips and their revenues are depicted in the plot above. It can be determined that the end stations are slightly busier in terms ending trips than starting trips, although majority of the start and end stations are the same.
+
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/27a5be3a-3842-41ae-803b-f7dc39464a88)
+
+It was observed that out of the 20 top start and end stations, 18 of them were same with 2 unique stations from each end on this ranking, indicating the level of engagement at these stations. There may be several factors contributing to their high levels of engagement such as population of the locality, innovative management, proximity to busy districts, businesses and leisure facilities among others. To improve revenue, some of these factors can be investigated and viable discoveries implemented across the other stations or considered when establishing new stations
