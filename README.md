@@ -53,6 +53,11 @@ For user type, it was discovered that the average trip distance, average trip du
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/6f9fb3e9-2b02-4249-adfd-ee44d6b560cd)
 Similar to user type,  the average trip distance, average trip duration and average trip revenue are all directly proportional to each other for the specific genders. Also there seems to be a repeating trend where as the gender increases, the metrics measured decrease
 
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/e67a6999-1a42-4e1d-8dc3-0f37775d98f0)
+
+The correlation heatmap confirms the hypothesis, indicating a ***perfect positive correlation*** among the usage duration, trip distance and trip revenue.
+It was also realized that categorical data(***user type, member gender, payment method***) showed an internal negative correlative relationship. This indicates, as evident from the chart that, within the same category, there is a contrasting relationship with the metrics measured(***usage duration, trip distance and trip revenue***).
+
 ### Payment Methods Analysis
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/f4c8314e-270e-4bee-86f1-ac8092557564)
 
