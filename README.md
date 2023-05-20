@@ -104,5 +104,10 @@ There may be several ***factors*** contributing to their ***high levels*** of en
 To ***improve revenue***, some of these factors can be investigated and ***viable discoveries implemented*** across the other stations or considered when ***establishing new stations***
 
 
-## Further Analysis
-### User Type
+## Age Analysis
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/5acccbf3-12bd-4e5a-a554-646a4c1a18a5)
+categorzing the users into age groups, it was observed that the users, in descending order were in the age brackets of ***31-40, 41-50, 51-60, 21-30*** and ***above 60***
+Several speculative assumptions can be made as to why the youngest age group represented such a low proportion of the user such as,
+* They are not as active as generations before them, probably caused by easy accessibility as a result of the global digital trasnformation
+* Majority may be financially incapable since you may find majority of them being students or unemployed
+* Or simply, the locations of the bikes have a low 21-30 age demographic
