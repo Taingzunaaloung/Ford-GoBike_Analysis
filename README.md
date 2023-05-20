@@ -75,4 +75,6 @@ The top 20 start and end stations, by the number of trips and their revenues are
 
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/27a5be3a-3842-41ae-803b-f7dc39464a88)
 
-It was observed that out of the 20 top start and end stations, 18 of them were same with 2 unique stations from each end on this ranking, indicating the level of engagement at these stations. There may be several factors contributing to their high levels of engagement such as population of the locality, innovative management, proximity to busy districts, businesses and leisure facilities among others. To improve revenue, some of these factors can be investigated and viable discoveries implemented across the other stations or considered when establishing new stations
+It was observed that out of the 20 top start and end stations, ***18*** of them were same with ***2*** unique stations from each end on this ranking, indicating the level of engagement at these stations. 
+There may be several ***factors*** contributing to their ***high levels*** of engagement such as ***population of the locality, innovative management, proximity to busy districts, businesses and leisure facilities*** among others. 
+To ***improve revenue***, some of these factors can be investigated and ***viable discoveries implemented*** across the other stations or considered when ***establishing new stations***
