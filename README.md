@@ -37,6 +37,9 @@ Python programming language was used, employing several tools and libraries for 
 
 Bike users are categorized into 2 groups, ***customers*** who were responsible for ***110470*** trips representing ***21.26%*** of the total number of trips and ***subscribers*** who were responsible for ***409230*** trips representing ***78.74%*** of the total number of trips
 
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/7675adfc-bca0-4daa-bba8-97dff40ffeb0)
+
+
 ### User Gender Analysis
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/abeaf08e-dd9f-41b6-8e08-f233a52218ee)
 
@@ -89,3 +92,7 @@ Compared to the remaining ***252*** station, the graphs indicate that despite th
 There may be several ***factors*** contributing to their ***high levels*** of engagement such as ***population of the locality, innovative management, proximity to busy districts, businesses and leisure facilities*** among others. 
 
 To ***improve revenue***, some of these factors can be investigated and ***viable discoveries implemented*** across the other stations or considered when ***establishing new stations***
+
+
+## Further Analysis
+### User Type
