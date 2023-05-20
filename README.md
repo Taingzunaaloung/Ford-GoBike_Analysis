@@ -86,3 +86,5 @@ To ***improve revenue***, some of these factors can be investigated and ***viabl
     <img src=https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/bc744cdf-7d0f-4233-bfec-9550c0888428 width="400" height="350"/>
     <img src=https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/0b92c1d7-8493-4e9c-adca-ebe476a13a4e width="600" height="350"/>
 </div>
+
+Compared to the remaining ***252*** station, the graphs indicate that despite the ***top 20*** start and end stations comprising ***less than 10%*** of the total number of stations , they account for ***more than 30%*** of the total number of trips and the total revenue made
