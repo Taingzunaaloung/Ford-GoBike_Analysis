@@ -62,7 +62,9 @@ Pegging the cost of bike usage at **$0.35** per minute, the revenue per trip was
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/76384c86-2c8d-4ee5-863b-7be978b3e0ac)
 
 It was determined that trips with the ***same start and end stations*** were responsible for ***18,134*** trips representing ***3.50%*** of the total number of trips and revenue of ***$43,091.00*** representing ***6.38%*** revenue share, indicating a ***close to double*** the number of trips proportion.
+
 Trips with ***different start and end stations*** had a total number of Trips to be ***501,566*** and revenue of ***$2,098,102.77*** representing ***96.52%*** and  ***93.62%*** respectively.
+
 To identify ***why*** trips with same start and end stations had a ***revenue boom***, it was discovered that the ***average revenue*** from such a trip was ***$7.89*** while the average for trips with different start and end stations was ***$4.18***, indicating a ***longer usage duration*** for trips with same start and end stations 
 
 *This insight can be useful in improving revenue for the company by encouraging users to return bikes to their start stations by rewarding users who do through discount or cashback programs*
