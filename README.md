@@ -50,3 +50,20 @@ Bike users are categorized into 2 groups, ***customers*** who were responsible f
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/f4c8314e-270e-4bee-86f1-ac8092557564)
 
 It was determined that the company offered 2 payment methods, either through the ***App wallet*** or by ***Credit card***. The Choice of payment mathod was found to be almost even between the 2 payment methods
+
+### Revenue Analysis
+Pegging the cost of bike usage at **$0.35** per minute, the revenue per trip was calculated by multiplying the usage duration by 0.35. The following insights were drawn from the revenue analysis
+* *Total Revenue* = **$2,241,193.76**
+* *Minimum Trip Revenue* = **$0.00**
+* *Average Trip Revenue* = **$4.31**
+* *Maximum Trip Revenue* = **$21.27**
+
+#### Revenue Analysis for Same Start and End Stations Vs Different Start and End Stations
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/76384c86-2c8d-4ee5-863b-7be978b3e0ac)
+
+It was determined that trips with the ***same start and end stations*** were responsible for ***18,134*** trips representing ***3.50%*** of the total number of trips and revenue of ***$43,091.00*** representing ***6.38%*** revenue share, indicating a ***close to double*** the number of trips proportion.
+Trips with ***different start and end stations*** had a total number of Trips to be ***501,566*** and revenue of ***$2,098,102.77*** representing ***96.52%*** and  ***93.62%*** respectively.
+To identify ***why*** trips with same start and end stations had a ***revenue boom***, it was discovered that the ***average revenue*** from such a trip was ***$7.89*** while the average for trips with different start and end stations was ***$4.18***, indicating a ***longer usage duration*** for trips with same start and end stations 
+
+*This insight can be useful in improving revenue for the company by encouraging users to return bikes to their start stations by rewarding users who do through discount or cashback programs*
+
