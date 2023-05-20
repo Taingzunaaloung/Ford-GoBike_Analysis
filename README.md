@@ -39,6 +39,8 @@ Bike users are categorized into 2 groups, ***customers*** who were responsible f
 
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/7675adfc-bca0-4daa-bba8-97dff40ffeb0)
 
+For user type, it was discovered that the average trip distance, average trip duration and average trip revenue are all directly proportional to each other, suggesting a strong positive correlation. Also, despite the number subscribers dwarfing the number of customers, it was realized that for all the parameters measured, customers did better averagely as compared to the subscribers which may suggest a negative correlation, whereby as the specific user type increases, the average trip distance, revenue and time decreases
+
 
 ### User Gender Analysis
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/abeaf08e-dd9f-41b6-8e08-f233a52218ee)
@@ -47,6 +49,9 @@ Bike users are categorized into 2 groups, ***customers*** who were responsible f
 * ***Females*** were responsible for ***98,621*** trips representing ***18.98%*** of the total
 * ***Other*** were responsible for ***6,299*** trips representing ***1.21%*** of the total
 * Bike users who did not specify their gender were categorized as ***Unspecified*** and were responsible for ***66,462*** trips representing ***12.79%*** of the total
+
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/6f9fb3e9-2b02-4249-adfd-ee44d6b560cd)
+Similar to user type,  the average trip distance, average trip duration and average trip revenue are all directly proportional to each other for the specific genders. Also there seems to be a repeating trend where as the gender increases, the metrics measured decrease
 
 ### Payment Methods Analysis
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/f4c8314e-270e-4bee-86f1-ac8092557564)
