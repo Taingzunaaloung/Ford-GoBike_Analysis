@@ -141,6 +141,3 @@ Due to the perfect positive correlation between trip duration, trip distance and
     <img src=https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/0b29031e-6b3a-444c-8b5a-b0028d9ee651 width="500" height="350"/>
     <img src=https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/f9693c02-99ab-4890-b417-244358c7db5e width="500" height="350"/>
 </div>
-
-
-<iframe src="map.html" width="600" height="450"></iframe>
