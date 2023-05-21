@@ -56,7 +56,7 @@ Similar to user type,  the average trip distance, average trip duration and aver
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/e67a6999-1a42-4e1d-8dc3-0f37775d98f0)
 
 The correlation heatmap confirms the hypothesis, indicating a ***perfect positive correlation*** among the usage duration, trip distance and trip revenue.
-It was also realized that categorical data(***user type, member gender, payment method***) showed an internal negative correlative relationship. This indicates, as evident from the chart that, within the same category, there is a contrasting relationship with the metrics measured(***usage duration, trip distance and trip revenue***).
+It was also realized that categorical data(***user type, member gender***) showed an internal negative correlative relationship. This indicates, as evident from the chart that, within the same category, there is a contrasting relationship with the metrics measured(***usage duration, trip distance and trip revenue***) except for ***payment method*** which does not show any linear correlative relation with the metrics measured.
 
 ### Payment Methods Analysis
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/f4c8314e-270e-4bee-86f1-ac8092557564)
@@ -106,8 +106,41 @@ To ***improve revenue***, some of these factors can be investigated and ***viabl
 
 ## Age Analysis
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/5acccbf3-12bd-4e5a-a554-646a4c1a18a5)
-categorzing the users into age groups, it was observed that the users, in descending order were in the age brackets of ***31-40, 41-50, 51-60, 21-30*** and ***above 60***
+
+Categorzing the users into age groups, it was observed that the users, in descending order were in the age brackets of ***31-40, 41-50, 51-60, 21-30*** and ***above 60***
+
 Several speculative assumptions can be made as to why the youngest age group represented such a low proportion of the user such as,
 * They are not as active as generations before them, probably caused by easy accessibility as a result of the global digital trasnformation
 * Majority may be financially incapable since you may find majority of them being students or unemployed
 * Or simply, the locations of the bikes have a low 21-30 age demographic
+
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/24a812e9-03dc-4d64-8872-6b8c14c92fc5)
+
+From the figure above, it can be seen that for all age groups, the number of subscribers far outnumber the number of customers(non-subscribers), an observation that is similar to the overall subscriber-customer proportions
+
+
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/0211c6a6-3922-4b1c-b84a-30f49c19f883)
+
+Similarly the gender proportions for each age group mimic the overall gender proportions with males users being the most folowed by females and other representing a tiny proportion 
+
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/574e7915-94f0-4a27-a075-58b7e646c336)
+
+For payment method use, it was realized that across all the age groups, there was no significant difference between app wallet or credit card usage
+
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/6a26500c-93b1-4260-a8c7-9904727b99d4)
+
+For trip duration, it was realized that the average trip duration was between 10.5 and 12 minutes which does not show much variety in terms of the age groups, which confirm its correlation coefficient of 0.00
+
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/2e7a75bd-e89e-4351-8386-4e40d2271140)
+
+Breaking the age groups down into the specific genders, it was realized that average trip duration for females of all age groups was 12 minutes and above while males recorded low average trip durations of below 11.7 minutes for all age groups. Other gender also recorded average trip durations within 12 and 13 minutes except for the youngest age group that recorded the lowest duration of below 10 minutes. 
+
+Due to the perfect positive correlation between trip duration, trip distance and trip revenue, the observations were similar as is evident in the figures shown below
+
+<div style="display:flex; justify-content:space-between;">
+    <img src=https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/0b29031e-6b3a-444c-8b5a-b0028d9ee651 width="500" height="350"/>
+    <img src=https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/f9693c02-99ab-4890-b417-244358c7db5e width="500" height="350"/>
+</div>
+
+
+<iframe src="map.html" width="600" height="450"></iframe>
