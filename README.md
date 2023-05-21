@@ -1,7 +1,8 @@
 # Ford-GoBike_Analysis
 
 # About Dataset
-The dataset has anonymous information about individual rides made in a bike-sharing system covering the greater San Francisco
+The dataset has anonymous information about individual rides made in a bike-sharing system covering the greater San Francisco.
+Start time and end time consist of only the mm:ss:SSS components of the timestamp element
 
 ### *Dataset Schema*
 ![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/8c22eadb-0715-4b20-a707-20b5a9a558d6)
@@ -24,6 +25,7 @@ Python programming language was used, employing several tools and libraries for 
 * **Pandas** - Assiting in generating plots
 * **Matplotlib** - For creating visualizations
 * **Haversine** - For calculating the distance between 2 coordinates
+* **Folium** - For generating map of station locations
 
 # Results
 
@@ -141,3 +143,25 @@ Due to the perfect positive correlation between trip duration, trip distance and
     <img src=https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/0b29031e-6b3a-444c-8b5a-b0028d9ee651 width="500" height="350"/>
     <img src=https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/f9693c02-99ab-4890-b417-244358c7db5e width="500" height="350"/>
 </div>
+
+## Stations Positioning
+
+![image](https://github.com/Taingzunaaloung/Ford-GoBike_Analysis/assets/119953557/6f4a92be-098e-4ed9-97b8-00dd3ce0f763)
+
+From the map, it can be seen that the bike renting service has stations clustered in 3 cities, San Francisco, San Jose and Oakland
+
+# Recommendations
+
+* As a service providing company, one way of increasing revenue lies in the area of expansion. From the map, it is obvious that the company has the potential to expand to connecting cites such as Hayward, Freemont, South San Francisco, Daly City, Palo Alto among others, provided similar services are not already present in these cities or the company is ready to compete in the case similar services are already existent in said cities.
+* Another means of improving revenue is by offering discount programs and promotions for the youngest age group and below, such as student discounts in a bid to increase users from that age range which translates to more revenue.
+* Although females were seen to have the highest average trip duration, female users were far outnumbered by their male counterparts. Implementing schemes that can improve female user numbers is sure going to increase revenue.
+* Another area that can be exploited is the payment method. As is usual, credit card payments attract a fee payable by the company, which in turn reduces the revenue per minute as compared to payments made throught the app wallet. Therefore, programs that can increase app wallet payments while decreasing credit card payments is bound to increase company revenue.
+
+## Conclusion
+
+The dataset consisted of 517900 rows, each row representing a bike trip and in extension a user using one of a total of 3673 bikes. 
+
+It was found that males consisted of the majority of users while the average usage duration, time and revenue were higher for females
+Also, despite the top 20 start and end stations representing below 10% of the total number of stations(271), it was found that , they were responsible for more than 30% of the total number of trips and revenue. Also, majority of the top 20 start stations were also in the top 20 end stations
+
+In terms of age distribution, majority of the users were in the 31-40 and 41-50 age groups while 21-30 recorded the least number of users
